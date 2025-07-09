@@ -1,12 +1,12 @@
-# WhatsApp Chat Analyzer
+# ./WhatsApp Chat Analyzer
 
-WhatsApp Chat Analyzer is a Streamlit-based web application for analyzing WhatsApp chat exports. It provides interactive statistics, visualizations, and insights about group or individual chat activity, word usage, emoji usage, and more.
+./WhatsApp Chat Analyzer is a Streamlit-based web application for analyzing ./WhatsApp chat exports. It provides interactive statistics, visualizations, and insights about group or individual chat activity, word usage, emoji usage, and more.
 
 ---
 
 ## Features
 
-- **Upload WhatsApp chat file** (text format)
+- **Upload ./WhatsApp chat file** (text format)
 - **User selection**: Analyze overall chat or filter by specific user
 - **Top statistics**: Total messages, words, media, and links shared
 - **Timelines**: Monthly and daily message activity
@@ -44,7 +44,7 @@ WhatsApp Chat Analyzer is a Streamlit-based web application for analyzing WhatsA
    streamlit run app.py
    ```
 3. Open the web browser to the provided local URL.
-4. Upload your WhatsApp chat export (text file).
+4. Upload your ./WhatsApp chat export (text file).
 5. Select user or "Overall" for group analysis.
 6. Click "Show Analysis" to view results.
 
@@ -78,12 +78,12 @@ This project is for educational and personal use.
 You can showcase your project by adding screenshots below:
 
 ```
-![Screenshot 1]("C:\Users\Asus\Videos\A.png")
-![Screenshot 2]("C:\Users\Asus\Videos\B.png")
-![Screenshot 1]("C:\Users\Asus\Videos\C.png")
-![Screenshot 2]("C:\Users\Asus\Videos\D.png")
-![Screenshot 1]("C:\Users\Asus\Videos\E.png")
-![Screenshot 2]("C:\Users\Asus\Videos\F.png")
+![Screenshot 1]("./WhatsApp-Chat-Analyzer-main/resources/A.png")
+![Screenshot 1]("./WhatsApp-Chat-Analyzer-main/resources/B.png")
+![Screenshot 1]("./WhatsApp-Chat-Analyzer-main/resources/C.png")
+![Screenshot 1]("./WhatsApp-Chat-Analyzer-main/resources/D.png")
+![Screenshot 1]("./WhatsApp-Chat-Analyzer-main/resources/E.png")
+![Screenshot 1]("./WhatsApp-Chat-Analyzer-main/resources/F.png")
 
 ```
 
