@@ -1,6 +1,6 @@
 # WhatsApp Chat Analyzer
 
-WhatsApp Chat Analyzer is a Streamlit-based web application for analyzing ./WhatsApp chat exports. It provides interactive statistics, visualizations, and insights about group or individual chat activity, word usage, emoji usage, and more.
+WhatsApp Chat Analyzer is a Streamlit-based web application for analyzing WhatsApp chat exports. It provides interactive statistics, visualizations, and insights about group or individual chat activity, word usage, emoji usage, and more.
 
 ---
 
@@ -44,7 +44,7 @@ WhatsApp Chat Analyzer is a Streamlit-based web application for analyzing ./What
    streamlit run app.py
    ```
 3. Open the web browser to the provided local URL.
-4. Upload your ./WhatsApp chat export (text file).
+4. Upload your WhatsApp chat export (text file).
 5. Select user or "Overall" for group analysis.
 6. Click "Show Analysis" to view results.
 
@@ -77,12 +77,12 @@ This project is for educational and personal use.
 
 You can showcase your project by adding screenshots below:
 
-<!-- Example screenshot usage. Place your images in 'WhatsApp-Chat-Analyzer-main/resources/' relative to this README, or update the paths below as needed. -->
-![Screenshot 1](WhatsApp-Chat-Analyzer-main/resources/A.png)
-![Screenshot 2](WhatsApp-Chat-Analyzer-main/resources/B.png)
-![Screenshot 3](WhatsApp-Chat-Analyzer-main/resources/C.png)
-![Screenshot 4](WhatsApp-Chat-Analyzer-main/resources/D.png)
-![Screenshot 5](WhatsApp-Chat-Analyzer-main/resources/E.png)
-![Screenshot 6](WhatsApp-Chat-Analyzer-main/resources/F.png)
+<!-- Example screenshot usage. Place your images in a 'resources' folder at the same level as this README.md, or update the paths below as needed. -->
+![Screenshot 1](resources/A.png)
+![Screenshot 2](resources/B.png)
+![Screenshot 3](resources/C.png)
+![Screenshot 4](resources/D.png)
+![Screenshot 5](resources/E.png)
+![Screenshot 6](resources/F.png)
 
-Replace `WhatsApp-Chat-Analyzer-main/resources/A.png` with the actual path to your screenshot images if different.
+Replace `resources/A.png` with the actual path to your screenshot images if different.
