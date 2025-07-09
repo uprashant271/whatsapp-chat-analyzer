@@ -77,14 +77,12 @@ This project is for educational and personal use.
 
 You can showcase your project by adding screenshots below:
 
-```
-![Screenshot 1]("./WhatsApp-Chat-Analyzer-main/resources/A.png")
+!("./WhatsApp-Chat-Analyzer-main/resources/A.png")
 ![Screenshot 1]("./WhatsApp-Chat-Analyzer-main/resources/B.png")
 ![Screenshot 1]("./WhatsApp-Chat-Analyzer-main/resources/C.png")
 ![Screenshot 1]("./WhatsApp-Chat-Analyzer-main/resources/D.png")
 ![Screenshot 1]("./WhatsApp-Chat-Analyzer-main/resources/E.png")
 ![Screenshot 1]("./WhatsApp-Chat-Analyzer-main/resources/F.png")
 
-```
 
 Replace `path/to/screenshot1.png` with the actual path to your screenshot images.
